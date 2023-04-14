@@ -1,0 +1,21 @@
+{
+  "name": "lowdb-orm",
+  "version": "1.0.0",
+  "description": "A simple ORM system for lowdb",
+  "type": "module",
+  "exports": "./index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "tsc && npx xv build/tests/"
+  },
+  "keywords": [],
+  "author": "Tyler Ashton",
+  "license": "ISC",
+  "dependencies": {
+    "lowdb": "^5.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.11",
+    "xv": "^2.1.1"
+  }
+}

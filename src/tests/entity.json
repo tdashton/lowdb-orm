@@ -1,0 +1,24 @@
+{
+  "entities": [
+    {
+      "id": 1,
+      "field2": true,
+      "field3": "value1-3"
+    },
+    {
+      "id": 2,
+      "field2": false,
+      "field3": "value2-3"
+    },
+    {
+      "id": 3,
+      "field2": true,
+      "field3": "value3-3"
+    },
+    {
+      "id": 4,
+      "field2": true,
+      "field3": "value4-3"
+    }
+  ]
+}
